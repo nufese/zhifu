@@ -9,9 +9,10 @@
 建议由指导师、社工或家人陪同使用，以获得更好的训练效果与陪伴体验。
 
 ## 下载
-- Android 版（即将上线）
-- Windows 版（即将上线）
-- macOS 版（即将上线）
+
+- [Android 版](https://github.com/nufese/zhifu/releases/latest/download/zhifu-android.apk)
+- [Windows 版](https://github.com/nufese/zhifu/releases/latest/download/zhifu-windows.zip)
+- [macOS 版](https://github.com/nufese/zhifu/releases/latest/download/zhifu-macos.dmg)
 - iPadOS/iOS 版（即将上线）
 
 ## 联系我
