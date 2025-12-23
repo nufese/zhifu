@@ -14,6 +14,9 @@
 - [macOS 版](https://github.com/nufese/zhifu/releases/latest/download/zhifu-macos.dmg)
 - iPadOS/iOS 版（未有）
 
+## 声明
+本应用分发版本仅面向个人及非商业场景免费开放，欢迎用于学习、陪伴与公益性实践，不得用于任何商业用途。
+
 ## 联系我
 微信：pbhu2i
 
